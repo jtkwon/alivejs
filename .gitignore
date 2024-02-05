@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+trash
+
+/test
+/test/**
+/config/*
+.env
+.eslintcache
+.vscode

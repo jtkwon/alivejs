@@ -1,0 +1,21 @@
+{
+  "name": "alivejs",
+  "version": "0.0.1",
+  "description": "Pure javascript animation/game engine",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtkwon/alivejs.git"
+  },
+  "keywords": [
+    "game",
+    "engine",
+    "animation",
+    "javascript"
+  ],
+  "author": "Jeff Kwon",
+  "license": "MIT",
+  "homepage": "https://github.com/jtkwon/alivejs#readme"
+}
